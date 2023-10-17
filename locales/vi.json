@@ -60,7 +60,7 @@
     "cantJoinChannel": "Không thể kết nối đến kênh thoại: {error}",
     "queueEnded": "❌ Đã phát hết nhạc trong hàng đợi.",
     "queueError": "Lỗi: {error}",
-    "startedPlaying": "🎶 Bắt đầu phát: **{title}** {url}",
+    "startedPlaying": "🎶 Bắt đầu phát: [**{title}**]({url})",
     "skipSong": "<@{author}> ⏩ đã bỏ qua bài hát đang phát",
     "pauseSong": "<@{author}> ⏸ đã tạm dừng phát nhạc!",
     "resumeSong": "<@{author}> ▶ đã tiếp tục phát nhạc!",
